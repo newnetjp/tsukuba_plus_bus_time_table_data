@@ -1,0 +1,180 @@
+{
+  "lastUpdated": "2026-11-26T06:37:00Z",
+  "revision": "2026-10-02",
+  "source": [
+    "https://kantetsu.jorudan.biz/",
+    "関東鉄道「筑波大学循環線 増便のお知らせについて」(2026年10月2日改正)"
+  ],
+  "trips": [
+    {
+      "days": [
+        "weekday",
+        "weekendHoliday"
+      ],
+      "route": "left",
+      "note": "◆…当バス停始発",
+      "stops": [
+        {
+          "stopId": "dai3_area",
+          "minuteOfDay": 360,
+          "route": "left"
+        },
+        {
+          "stopId": "dai1_area",
+          "minuteOfDay": 361,
+          "route": "left"
+        },
+        {
+          "stopId": "daigaku_kaikan",
+          "minuteOfDay": 362,
+          "route": "left"
+        },
+        {
+          "stopId": "tsukuba_west",
+          "minuteOfDay": 362,
+          "route": "left"
+        },
+        {
+          "stopId": "hirasuna",
+          "minuteOfDay": 364,
+          "route": "left"
+        },
+        {
+          "stopId": "oikoshi",
+          "minuteOfDay": 365,
+          "route": "left"
+        },
+        {
+          "stopId": "daigaku_byoin_east",
+          "minuteOfDay": 366,
+          "route": "left"
+        },
+        {
+          "stopId": "medical_center_front",
+          "minuteOfDay": 367,
+          "route": "left"
+        },
+        {
+          "stopId": "kasuga",
+          "minuteOfDay": 368,
+          "route": "left"
+        },
+        {
+          "stopId": "azuma_elem",
+          "minuteOfDay": 369,
+          "route": "left"
+        },
+        {
+          "stopId": "tsukuba_center",
+          "minuteOfDay": 375,
+          "route": "left"
+        }
+      ]
+    },
+    {
+      "days": [
+        "weekday",
+        "weekendHoliday"
+      ],
+      "route": "left",
+      "note": "三…第三エリア前止",
+      "stops": [
+        {
+          "stopId": "tsukuba_center",
+          "minuteOfDay": 1380,
+          "route": "left"
+        },
+        {
+          "stopId": "azuma_elem",
+          "minuteOfDay": 1381,
+          "route": "left"
+        },
+        {
+          "stopId": "kasuga",
+          "minuteOfDay": 1382,
+          "route": "left"
+        },
+        {
+          "stopId": "medical_center_front",
+          "minuteOfDay": 1383,
+          "route": "left"
+        },
+        {
+          "stopId": "medical_center",
+          "minuteOfDay": 1384,
+          "route": "left"
+        },
+        {
+          "stopId": "oikoshi_east",
+          "minuteOfDay": 1385,
+          "route": "left"
+        },
+        {
+          "stopId": "amakubo_2",
+          "minuteOfDay": 1386,
+          "route": "left"
+        },
+        {
+          "stopId": "amakuboike",
+          "minuteOfDay": 1387,
+          "route": "left"
+        },
+        {
+          "stopId": "gasshukujo",
+          "minuteOfDay": 1388,
+          "route": "left"
+        },
+        {
+          "stopId": "amakubo_3",
+          "minuteOfDay": 1389,
+          "route": "left"
+        },
+        {
+          "stopId": "matsumi",
+          "minuteOfDay": 1390,
+          "route": "left"
+        },
+        {
+          "stopId": "daigaku_koen",
+          "minuteOfDay": 1391,
+          "route": "left"
+        },
+        {
+          "stopId": "tsukuba_chuo",
+          "minuteOfDay": 1392,
+          "route": "left"
+        },
+        {
+          "stopId": "tara_center",
+          "minuteOfDay": 1393,
+          "route": "left"
+        },
+        {
+          "stopId": "botanical_garden",
+          "minuteOfDay": 1394,
+          "route": "left"
+        },
+        {
+          "stopId": "ichinoya",
+          "minuteOfDay": 1395,
+          "route": "left"
+        },
+        {
+          "stopId": "nourin_center",
+          "minuteOfDay": 1396,
+          "route": "left"
+        },
+        {
+          "stopId": "rikuiki_env",
+          "minuteOfDay": 1397,
+          "route": "left"
+        },
+        {
+          "stopId": "dai3_area",
+          "minuteOfDay": 1400,
+          "route": "left"
+        }
+      ]
+    }
+  ]
+}
